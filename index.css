@@ -262,8 +262,8 @@ nav ul li:hover {
 	color: white;
 }
 .banner__img {
-	height: 55rem;
-	width: 55rem;
+	/*	height: 55rem;*/
+	width: 45rem;
 	border: 0.3rem solid;
 }
 /*banner section ends here*/
